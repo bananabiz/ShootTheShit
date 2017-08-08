@@ -10,7 +10,7 @@ namespace Classes
        public GameObject enemyPrefab;
        public float spawnRate = 1f;
        public float spawnRadius = 1f;
-       public float force = 300f;
+       public float force = 20f;
    
        void OnDrawGizmos()
        {
