@@ -8,8 +8,8 @@ namespace Classes
    {
    
        public GameObject enemyPrefab;
-       public float spawnRate = 1f;
-       public float spawnRadius = 1f;
+       public float spawnRate = 3f;
+       public float spawnRadius = 10f;
        public float force = 50f;
    
        void OnDrawGizmos()
